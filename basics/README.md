@@ -1,4 +1,4 @@
-#Shell scripting, how to and a simplified look at it.
+# Shell scripting, how to and a simplified look at it.
 
 > Shell is one of the most used coding languages in the world because of it's easy to learn and hard to master learning style.
 In shell you can execute plenty of cool commands and if you know all the separate components individually it is fairly satisfying to make a cool looking commands. __I would always recommend shell as a starting coding language.__
