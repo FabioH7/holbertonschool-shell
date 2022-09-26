@@ -1,9 +1,8 @@
 # Shell scripting, how to and a simplified look at it.
 
 > Shell is one of the most used coding languages in the world because of it's easy to learn and hard to master learning style.
-In shell you can execute plenty of cool commands and if you know all the separate components individually it is fairly satisfying to make a cool looking commands.
-
-* Scripting is the execution of a command from a created file. 
+In shell you can execute plenty of cool commands and if you know all the separate components individually it is fairly satisfying to make a cool looking commands. Scripting is the execution of a command from a created file.
+ 
 Check more [Here](https://github.com/FabioH7/holbertonschool-shell/blob/main/basics/README.md)
 
 # Shell permissions
