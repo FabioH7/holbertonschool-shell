@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR
+ls -laR | cut -d' ' -f1,9 | sort
